@@ -4,3 +4,4 @@ Age
 Date of Birth
 gender
 Marks
+Reg number
