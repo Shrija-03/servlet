@@ -3,3 +3,4 @@ Name
 Age
 Date of Birth
 gender
+Marks
