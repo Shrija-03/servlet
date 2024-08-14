@@ -1,1 +1,2 @@
 # Java is a High level programming language
+# It was developed by James Gosling
